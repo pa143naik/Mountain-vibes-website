@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "DM Sans", sans-serif;
+
+}
+
+body{
+    min-height: 100vh;
+    background: url(mountain\ pic1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.nav1{
+    background-color: rgb(252, 253, 253);
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    align-items: center;
+
+}
+.logo{
+    margin: 0px 0px 0px 30px;
+    height: 30px;
+}
+button{
+    margin: 10px 40px;
+    background-color:#fff;
+    /* border-radius: 10px; */
+    color: #359381;
+    padding: 10px;
+    border: none;
+
+    
+}
